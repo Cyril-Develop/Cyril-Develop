@@ -21,6 +21,8 @@
 
 <img align="left" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
+
 <img align="left" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+
 
 <a align="left" href='https://twitter.com/CyrilBDev' target="_blank"><img alt='twitter' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=939090&color=1d9bf0'/></a>
