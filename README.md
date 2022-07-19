@@ -2,8 +2,6 @@
 
 # Hi there ! I'm Cyril 👋
 
-*******
-
 ## I'm in web developer training at openclassrooms
 
 [![HTML](https://img.shields.io/badge/HTML-%23FFac45.svg?&style=for-the-badge&logo=html5&logoColor=white&color=orange)](https://github.com/)
