@@ -1,3 +1,5 @@
+![banner](./banner.png)
+
 # Hi there ! I'm Cyril 👋
 
 ## I'm in web developer training at openclassrooms
@@ -15,7 +17,7 @@
 
 <img align="left" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-![banner](./banner.png)
+
 
 <img align="left" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
