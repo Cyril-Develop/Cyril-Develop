@@ -2,6 +2,8 @@
 
 I'm in web developer training at openclassrooms
 
+***
+
 <img align="left" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 
 <img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -16,9 +18,9 @@ I'm in web developer training at openclassrooms
 
 <img align="left" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
-***
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cyril-Develop)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ***
 
