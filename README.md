@@ -16,8 +16,11 @@ I'm in web developer training at openclassrooms
 
 <img align="left" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
-<center> 
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cyril-Develop)](https://github.com/anuraghazra/github-readme-stats)
-</center>
+\newline
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cyril-Develop)](https://github.com/anuraghazra/github-readme-stats)
+
+\newline
+
 
 <a href='https://twitter.com/CyrilBDev' target="_blank"><img alt='twitter' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=939090&color=1d9bf0'/></a>
