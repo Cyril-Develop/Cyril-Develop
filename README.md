@@ -1,4 +1,4 @@
-![banner](./banner.png)
+![banner](./banner_dark.png)
 
 # Hi there ! I'm Cyril 👋
 
