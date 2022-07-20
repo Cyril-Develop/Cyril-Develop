@@ -3,7 +3,6 @@
 # Hi there ! I'm Cyril 👋
 
 <a href='https://twitter.com/CyrilBDev' target="_blank"><img alt='twitter' src='https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwildagsx'/></a>
-
 <a href='https://www.linkedin.com/in/cyril-bourdon-379a67245/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin'/></a>
 
 
