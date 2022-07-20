@@ -5,9 +5,9 @@
 <a href='https://twitter.com/CyrilBDev' target="_blank"><img alt='twitter' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=939090&color=1d9bf0'/></a>
 <a href='https://www.linkedin.com/in/cyril-bourdon-379a67245/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LINKEDIN-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=939090&color=1d9bf0'/></a>
 
-## I'm in web developer training at openclassrooms !
+I'm in web developer training at openclassrooms !
 
-👉 Compétences
+## 👉 Compétences
 
 [![HTML](https://img.shields.io/badge/HTML-%23FFac45.svg?&style=for-the-badge&logo=html5&logoColor=white&color=orange)](https://github.com/)
 [![CSS](https://img.shields.io/badge/CSS-%23FFac45.svg?&style=for-the-badge&logo=css3&logoColor=white&color=blue)](https://github.com/)
