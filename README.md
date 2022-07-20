@@ -2,8 +2,14 @@
 
 # Hi there ! I'm Cyril 👋
 
-<a href='https://twitter.com/CyrilBDev' target="_blank"><img alt='twitter' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=939090&color=1d9bf0'/></a>
+<a href='https://twitter.com/CyrilBDev' target="_blank"><img alt='twitter' src='https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwildagsx'/></a>
 <a href='https://www.linkedin.com/in/cyril-bourdon-379a67245/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LINKEDIN-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=939090&color=1d9bf0'/></a>
+
+
+
+	
+
+<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwildagsx">
 
 I'm in web developer training at openclassrooms !
 
