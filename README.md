@@ -6,7 +6,7 @@
 <a href='https://www.linkedin.com/in/cyril-bourdon-379a67245/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin'/></a>
 <a href='' target="_blank"><img src="https://camo.githubusercontent.com/9bedef4156efd09bae55875f0607fb2da681fdc631aae7b23b1a77a6d603bd5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f656d61696c2d2d6c69676874677265793f7374796c653d736f6369616c266c6f676f3d676d61696c" alt="email" data-canonical-src="https://img.shields.io/badge/email--lightgrey?style=social&amp;logo=gmail" style="max-width: 100%;"></a>
 
-Je suis actuellement une formation développeur web chez OpenClassRooms !
+Je suis actuellement en formation développeur web chez OpenClassRooms !
 
 ## 👉 Compétences
 
