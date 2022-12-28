@@ -22,5 +22,5 @@ Je suis actuellement en formation développeur web chez OpenClassRooms !
 ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MONGO](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MYSQL](https://img.shields.io/badge/React-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![REACT](https://img.shields.io/badge/React-005C84?style=for-the-badge&logo=react&logoColor=white)
 
