@@ -3,7 +3,6 @@
 # Bonjour à tous ! 👋
 
 <a href='https://twitter.com/CyrilBDev' target="_blank"><img alt='twitter' src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white'/></a>
-[<a href='https://www.linkedin.com/in/cyril-bourdon-379a67245/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>](url)
 <a href='http://bit.ly/3IzCeYf' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white'/></a>
 
 ## 👉 Compétences
