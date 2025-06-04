@@ -6,6 +6,10 @@
 <a href='https://www.linkedin.com/in/c-bourdon/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white'/></a>
 <a href='https://cyril-develop.fr/' target="_blank"><img alt='Portfolio' src='https://img.shields.io/badge/PORTFOLIO-%23263B40?style=for-the-badge'/></a>
 
+## 🚀 Ma dernière application
+**Chateo** - Application de chat en temps réel  
+➡️ [Testez l'application](https://chateo.fr)
+
 ## 👉 Compétences
 
 ![HTML](https://img.shields.io/badge/HTML-%23FFac45.svg?&style=for-the-badge&logo=html5&logoColor=white&color=orange)
