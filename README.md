@@ -8,7 +8,7 @@
 
 ## 🚀 Ma dernière application
 **Chateo** - Application de chat en temps réel  
-➡️ [Testez l'application](https://chateo.fr)
+➡️ [Testez l'application](https://chateo.fr)<br>
 ![banner](./qr-code.png)
 
 ## 👉 Compétences
